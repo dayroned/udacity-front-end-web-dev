@@ -1,6 +1,6 @@
 # Vagrant Settings
-/.vagrant
-/*.log
+.vagrant
+*.log
 
 # OS Related
 .DS_Store
