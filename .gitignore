@@ -1,0 +1,8 @@
+# Vagrant Settings
+/.vagrant
+/*.log
+
+# OS Related
+.DS_Store
+
+# 2018.02.04-DEA
